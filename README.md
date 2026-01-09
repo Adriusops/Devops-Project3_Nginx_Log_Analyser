@@ -166,7 +166,7 @@ MIT License
 - GitHub: [@Adriusops](https://github.com/AMM48)
 
 ## 🔗 Ressources
-Ce projet fait partie des [roadmap.sh DevOps Projects](https://roadmap.sh/projects/log-archive-tool).
+Ce projet fait partie des [roadmap.sh DevOps Projects](https://roadmap.sh/projects/nginx-log-analyser).
 
 ---
 
